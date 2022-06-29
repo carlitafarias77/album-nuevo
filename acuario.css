@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Montserrat:wght@300;500&family=Praise&display=swap');
+
+
+header h1{
+    background-color: turquoise;
+    text-align: center;
+    color: white;
+}
+ img{
+    border-radius: 50%;
+    border-style: solid;
+    border-color: aquamarine;    
+    align-items: center;
+    text-align: center;
+    justify-items: center;
+    border-width: 20px;
+}
+.alinear-Flex{
+    display: flex;
+    justify-content: center;
+}
+span button{
+    background-color: turquoise;
+    color: white;
+    border-style: groove;
+    border-color: aquamarine;
+    text-shadow: 20px;
+    font-family:Praise;
+    font-size: 30px;
+    border-bottom: 25px;
+    border-top-left-radius: 20px;
+    margin: 20px;
+    padding-left: 20px;
+}
+ul.alinear{
+    display: flex;
+    justify-content: center;
+    
+}
