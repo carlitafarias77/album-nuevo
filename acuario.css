@@ -5,8 +5,14 @@ header h1{
     background-color: turquoise;
     text-align: center;
     color: white;
+    display: flex;
+    justify-content: center;
 }
- img{
+img{
+    display: flex;
+    justify-content: flex-start;
+}
+ .foto{
     border-radius: 50%;
     border-style: solid;
     border-color: aquamarine;    
